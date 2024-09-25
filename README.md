@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yolojewjitsu/telegram-bot-links.git
+   git clone https://github.com/yolojewjitsu/telegram_bot_links.git
    ```
 
 2. Установите зависимости:
